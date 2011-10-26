@@ -1,0 +1,13 @@
+Name: Target: Blank
+AntiForgery: enabled
+Author: Piedone
+Website: http://targetblank.codeplex.com/
+Version: 1.0
+OrchardVersion: 1.3
+Description: If enabled, outgoing links open in new window (just like with the deprecated target="_blank" attribute)
+Features:
+    Piedone.TargetBlank:
+		Name: Target: Blank
+        Description: If enabled, outgoing links open in new window (just like with the deprecated target="_blank" attribute)
+		Category: Navigation
+		Dependencies: Orchard.jQuery
