@@ -9,7 +9,7 @@ namespace Piedone.TargetBlank
         public void BuildManifests(ResourceManifestBuilder builder)
         {
             var manifest = builder.Add();
-            manifest.DefineScript("TargetBlank").SetUrl("TargetBlank.js").SetDependencies("jQuery");
+            manifest.DefineScript("TargetBlank").SetUrl("piedone-target-blank.js").SetDependencies("jQuery");
         }
     }
 }
