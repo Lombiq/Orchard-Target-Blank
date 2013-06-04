@@ -4,6 +4,8 @@
             function () {
                 var href = $(this).attr('href');
 
+                if (!href) return;
+
                 // Is outgoing link
                 if (!href.match(/^mailto\:/) && (this.hostname != location.hostname)) {
                     $(this).click(
