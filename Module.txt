@@ -1,7 +1,7 @@
 Name: Target: Blank
 AntiForgery: enabled
 Author: Piedone
-Website: http://targetblank.codeplex.com/
+Website: https://github.com/Lombiq/Orchard-Target-Blank
 Version: 1.0.2
 OrchardVersion: 1.9.0
 Description: If enabled, outgoing links open in new window (just like with the deprecated target="_blank" attribute)
