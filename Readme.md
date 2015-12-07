@@ -16,7 +16,7 @@ If you want a link to exclude from this rule, use the "no-target-blank" class on
 
 You can download the module from the [Orchard Gallery](http://gallery.orchardproject.net/List/Modules/Orchard.Module.Piedone.TargetBlank).
 
-### See the [Version history](Docs/VersionHistory.md)
+**See the [Version history](Docs/VersionHistory.md).**
 
 The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
