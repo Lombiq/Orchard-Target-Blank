@@ -18,6 +18,8 @@ You can download the module from the [Orchard Gallery](http://gallery.orchardpro
 
 **See the [Version history](Docs/VersionHistory.md).**
 
+The module is also available for [DotNest](http://dotnest.com/) sites.
+
 The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
 - [https://bitbucket.org/Lombiq/orchard-target-blank](https://bitbucket.org/Lombiq/orchard-target-blank) (Mercurial repository)
