@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Piedone
 Website: https://github.com/Lombiq/Orchard-Target-Blank
 Version: 1.0.2
-OrchardVersion: 1.9.2
+OrchardVersion: 1.9.3
 Description: If enabled, outgoing links open in new window (just like with the deprecated target="_blank" attribute)
 Features:
     Piedone.TargetBlank:
