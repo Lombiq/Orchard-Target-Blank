@@ -10,7 +10,12 @@
                 if (!href.match(/^mailto\:/) && (this.hostname != location.hostname)) {
                     $(this).click(
                         function () {
-                            window.open(this.href);
+                            var newWindow = window.open(this.href);
+
+                            // Preventing that a malicious target site could change the opening window's URL, see:
+                            // https://mathiasbynens.github.io/rel-noopener/
+                            newWindow.opener = null;
+
                             return false;
                         });
                 }
