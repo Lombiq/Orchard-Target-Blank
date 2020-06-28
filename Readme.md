@@ -1,8 +1,8 @@
-# Target: Blank Orchard module Readme
+# Target: Blank Orchard module
 
 
 
-## Project Description
+## About
 
 If enabled, outgoing links open in new window (just like with the deprecated `target="_blank"` attribute)
 
@@ -20,12 +20,9 @@ You can download the module from the [Orchard Gallery](http://gallery.orchardpro
 
 The module is also available for [DotNest](http://dotnest.com/) sites.
 
-The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
-- [https://bitbucket.org/Lombiq/orchard-target-blank](https://bitbucket.org/Lombiq/orchard-target-blank) (Mercurial repository)
-- [https://github.com/Lombiq/Orchard-Target-Blank](https://github.com/Lombiq/Orchard-Target-Blank) (Git repository)
+## Contributing and support
 
-Bug reports, feature requests and comments are warmly welcome, **please do so via GitHub**.
-Feel free to send pull requests too, no matter which source repository you choose for this purpose.
+Bug reports, feature requests, comments, questions, code contributions, and love letters are warmly welcome, please do so via GitHub issues and pull requests. Please adhere to our [open-source guidelines](https://lombiq.com/open-source-guidelines) while doing so.
 
-This project is developed by [Lombiq Technologies Ltd](http://lombiq.com/). Commercial-grade support is available through Lombiq.
+This project is developed by [Lombiq Technologies](https://lombiq.com/). Commercial-grade support is available through Lombiq.
